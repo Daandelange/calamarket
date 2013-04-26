@@ -14,3 +14,6 @@ http://www.openprocessing.org/sketch/11104
 
 Improved by Fanny  
 http://looktheodderway.net
+
+Powered by Processing  
+http://processing.org/
